@@ -1,4 +1,4 @@
-# Hey there 👋🏾, I'm Mark Mgharo
+# Hey there, I'm Mark Mgharo
 
 ### Building practical software for African businesses, from the Kenyan coast 🇰🇪
 
@@ -10,10 +10,10 @@ I run **Geptu Enterprises**, where I design and ship software that solves real p
 
 ### 🚀 Featured Projects
 
-**[Urembo Pro (Happy Hair POS)](https://github.com/stickmanKE/salon_pos)**
+**[Urembo Pro (CRM/POS)](https://github.com/stickmanKE/salon_pos)**
 A Django-based POS & CRM built for a local salon — appointments, stylist commissions, unified inventory (products, human hair, beverages), and client CRM. Built as a no-subscription, locally-relevant alternative to Western platforms like Fresha and Vagaro.
 
-**Chakula Chetu**
+**Chakula Chetu https://chakula-chetu.vercel.app/planner.html**
 A Kenyan baby weaning meal planner web app, born out of a year of personally navigating weaning with local foods. Includes meal planning logic, a reviews section, and M-Pesa-powered support.
 
 ---
